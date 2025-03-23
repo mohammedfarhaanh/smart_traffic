@@ -1,6 +1,4 @@
 from google.colab.patches import cv2_imshow
-!pip install opencv-python
-!pip install ultralytics
 
 import cv2
 import time
